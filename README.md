@@ -1,6 +1,6 @@
 <h1> Hi I'm Ditya Athallah </h1>
 
-I'm a Frontend Developer that love react js. Currently student at Telkom University and also freelance website developer based in Indonesia
+I'm a Frontend Developer that love react js. Currently student at Telkom University, update: I'm no longer student at Telkom, and also freelance website developer based in Indonesia
 
 ### Contact me! :mailbox:
 
